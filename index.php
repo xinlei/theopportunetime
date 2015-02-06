@@ -43,7 +43,10 @@
 			<div class='col-md-8 sub-content-sub-title'><h5>With oil prices tumbling, OPEC is not the only entity struggling to remain on top of their finances.</h5></div>
 		</div>
 		<div class='row'>
-			<div class='col-md-8 sub-content-author'><h5>By Andrew Vazquez, Managing Editor</h5></div>
+			<div class='col-md-8 sub-content-author'>
+				<img src='img/profile/andrew-v.jpg'>
+				<h5>By Andrew Vazquez, Managing Editor</h5>
+			</div>
 		</div>
 		<div class='row'><div class='col-md-8 content-divider'></div></div>
 		<div class='row'>
@@ -53,7 +56,10 @@
 			<div class='col-md-8 sub-content-sub-title'><h5>The end of U.S. quantitative easing could be the turning point down a very dark road for emerging market economies.</h5></div>
 		</div>
 		<div class='row'>
-			<div class='col-md-8 sub-content-author'><h5>By Andrew Vazquez, Managing Editor</h5></div>
+			<div class='col-md-8 sub-content-author'>
+				<img src='img/profile/andrew-v.jpg'>
+				<h5>By Andrew Vazquez, Managing Editor</h5>
+			</div>
 		</div>
 		<div class='row'><div class='col-md-8 content-divider'></div></div>
 
