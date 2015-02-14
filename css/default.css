@@ -75,7 +75,7 @@ h1, h5 {
     padding-bottom: 90px;
 }
 
-.main-content .title {
+.main-content-title {
 	font-family: 'Droid Serif', serif;
 	margin-bottom: 10px;
 	font-weight: bold;
@@ -100,9 +100,13 @@ h1, h5 {
 	bottom: 0px;
 	left: 70px;
 }
-	
 
 .content-divider {
 	border-bottom: 1px solid lightgrey;
 	margin: 10px 0px;
+}
+
+.main-content-title:hover, .sub-content-title:hover {
+	text-decoration: underline;
+	cursor: pointer;
 }
